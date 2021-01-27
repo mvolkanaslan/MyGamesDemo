@@ -1,0 +1,13 @@
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.exe
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.deps.json
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.runtimeconfig.json
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.runtimeconfig.dev.json
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.dll
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\bin\Debug\netcoreapp3.1\MyGamesDemo.pdb
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.csprojAssemblyReference.cache
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.AssemblyInfoInputs.cache
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.AssemblyInfo.cs
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.dll
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.pdb
+C:\Users\Vollkan\source\repos\MyGamesDemo\MyGamesDemo\obj\Debug\netcoreapp3.1\MyGamesDemo.genruntimeconfig.cache
