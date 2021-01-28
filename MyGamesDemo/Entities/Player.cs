@@ -10,6 +10,6 @@ namespace MyGamesDemo.Entities
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string NationalityId { get; set; }
-        public int Age { get; set; }
+        public DateTime DateOfBirth { get; set; }
     }
 }

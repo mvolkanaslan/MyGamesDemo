@@ -7,6 +7,6 @@ namespace MyGamesDemo.Abstract
 {
     public interface IPlayerCheckService
     {
-        bool PlayerCheck(Player player); 
+        bool PlayerCheckAsync(Player player); 
     }
 }
